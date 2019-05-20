@@ -28,8 +28,7 @@
 相关收录文章：
 >[Nuxt](https://zh.nuxtjs.org/guide/)
 [Next](https://nextjs.org/)
-[Prerender + vuejs SEO最佳实践 百度爬虫 + 谷歌收录 亲测成功
-](https://www.deboy.cn/prerender-vuejs1-X-SEO-best-practice.html)[Prerender.io](https://blog.csdn.net/niuniuasb/article/details/60957810)
+[Prerender + vuejs SEO最佳实践 百度爬虫 + 谷歌收录 亲测成功](https://www.deboy.cn/prerender-vuejs1-X-SEO-best-practice.html)[Prerender.io](https://blog.csdn.net/niuniuasb/article/details/60957810)
 [前端渲染与 SEO 优化踩坑 小记](https://www.v2ex.com/t/302616)
 [用PhantomJS来给AJAX站点做SEO优化](http://f2er.info/article/29)
 ####一个PhantomJS任务脚本
